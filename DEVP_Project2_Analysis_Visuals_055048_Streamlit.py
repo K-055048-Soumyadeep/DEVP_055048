@@ -12,7 +12,7 @@ st.write('This application analyzes import/export data.')
 
 # uploaded_file = st.file_uploader("Upload your CSV file", type=['csv'])
 # if uploaded_file is not None:
-import_export = pd.read_csv('Downloads/Imports_Exports_Dataset.csv')
+import_export = pd.read_csv('Imports_Exports_Dataset.csv')
 
 
 # Sample 3001 records
