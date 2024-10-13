@@ -5,3 +5,6 @@ https://github.com/K-055048-Soumyadeep/DEVP_055048/blob/main/DEVP_Project2_Analy
 
 URL link:-
 https://devp055048-iq.streamlit.app/
+
+Requirement file:-
+https://github.com/K-055048-Soumyadeep/DEVP_055048/blob/main/requirements.txt
